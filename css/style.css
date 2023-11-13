@@ -1,0 +1,59 @@
+.menu__label {
+  text-align: center !important;
+  color: #0080a6 !important;
+  font-weight: bold !important;
+  line-height: 14px !important;
+}
+
+.menu__label_verify {
+  text-align: center !important;
+  color: white !important;
+  font-weight: bold !important;
+  line-height: 14px !important;
+}
+
+.menu__label--over {
+  color: #004c5e !important;
+}
+
+.menu-web__sidenav-label {
+  color: #0080a6 !important;
+  font-weight: bold !important;
+}
+
+.menu-web__sidenav-label--over {
+  color: #004c5e !important;
+  font-weight: bold !important;
+}
+
+.menu-web__top-label {
+  color: #ffffff !important;
+  font-weight: bold !important;
+}
+
+.menu-web__top-label--over {
+  color: #fbc34d !important;
+  font-weight: bold !important;
+}
+
+.paginacion,
+.titulo__ventana {
+  text-align: center !important;
+  color: #ffffff !important;
+  font-weight: bold !important;
+  line-height: 20px;
+}
+
+.button__verify,
+.button__continue {
+  text-align: center !important;
+  color: #ffffff !important;
+  font-weight: bold !important;
+}
+
+.question__button {
+  font-size: 35px !important;
+  font-weight: bold !important;
+  color: #000000 !important;
+  text-align: center !important;
+}
